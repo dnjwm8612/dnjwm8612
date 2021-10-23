@@ -4,7 +4,7 @@
 
  - 💻  **I'm a back-end Develover**    
 
- - 🇰🇷  **I'm working in South Korea**
+ - ✏  **I'm studying to be a better developer**
 
 ### How to reach me? 🤔
 
