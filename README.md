@@ -8,9 +8,9 @@
 
 ### How to reach me? 🤔
 
-- 📮  **KeL_Email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjwm8612@gmail.com)](mailto:dbhwn8612@gmail.com)
+- 📮  **Kereu_Email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnjwm8612@gmail.com)](mailto:dbhwn8612@gmail.com)
 
-- 📗  **KeL_Blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&logo=blogger&logoColor=white&link=https://velog.io/@dnjwm8612)](https://velog.io/@dnjwm8612)
+- 📗  **Kereu_Blog ...**[![Tech Blog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&logo=blogger&logoColor=white&link=https://velog.io/@dnjwm8612)](https://velog.io/@dnjwm8612)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjwm8612&show_icons=true&theme=radical)
 
